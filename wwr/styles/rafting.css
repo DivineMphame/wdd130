@@ -269,6 +269,7 @@ button[type="submit"]:hover {
     background-color: #064e5e;
 }
 
+/* Employee section styles */
 .employee {
     display: flex;
     align-items: center;
